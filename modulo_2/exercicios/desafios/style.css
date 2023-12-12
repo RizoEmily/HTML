@@ -1,0 +1,26 @@
+@charset "UTF-08";
+
+
+header{
+        background-color: rgb(31, 143, 31) ;
+        margin: -10px;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    text-shadow: 2px 2px 3px black;
+}
+h2#h2main{
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}
+div#menu{
+    color: white;
+}
